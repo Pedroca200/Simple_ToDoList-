@@ -4,4 +4,6 @@
 Apenas uma lista simples feita em python, ela tem apenas operações básicas como:
 - Adição de Tarefas
 - Remoção de Tarefas
-- Visualização da Lista 
+- Visualização da Lista
+
+Ele salva as informações num arquivo.txt
